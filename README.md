@@ -16,9 +16,6 @@ I am pursuing a [Master in Computer Science](http://scit.bjtu.edu.cn) at [BEIJIN
 **Contact me by**:
 - Email (huganghui18@gmail.com)
 
-[![Ganghui's github stats](https://github-readme-stats.vercel.app/api?username=HuGanghui&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 Here are some ideas to get you started:

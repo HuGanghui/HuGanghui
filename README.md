@@ -7,7 +7,7 @@ I am pursuing a [Master in Computer Science](http://scit.bjtu.edu.cn) at [BEIJIN
 - time series anomaly detection
 - transfer leanring and active learning 
 
-🌱 **engineering-wise, I am interesting in and learning**:
+🌱 **Engineering-wise, I am interesting in and learning**:
 
 - database, HTAP and distribution system
 - using algorithms to improve performance

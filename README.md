@@ -5,7 +5,7 @@ I am pursuing a [Master in Computer Science](http://scit.bjtu.edu.cn) at [BEIJIN
 🔭 **Reseach-wise, I mainly focus on**:
 
 - time series anomaly detection
-- transfer leanring and active learning 
+- statistic analysis and unsupervised learning 
 
 🌱 **Engineering-wise, I am interesting in and learning**:
 

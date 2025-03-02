@@ -1,11 +1,5 @@
 ### Hi there, I'm Ganghui Hu 👋 
 
-I am pursuing a [Master in Computer Science](http://scit.bjtu.edu.cn) at [BEIJING JIAOTONG UNIVERSITY](https://www.bjtu.edu.cn). 
-
-🔭 **Reseach-wise, I mainly focus on**:
-
-- time series anomaly detection
-- statistic analysis and unsupervised learning 
 
 🌱 **Engineering-wise, I am interesting in and learning**:
 
